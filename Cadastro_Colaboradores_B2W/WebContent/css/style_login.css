@@ -1,0 +1,16 @@
+
+section{
+    margin-top: 15vh;
+  }
+  
+  .botao{
+    background-color: #53EAC3;
+    color: #fff; 
+    border: none; 
+  }
+
+  .botao:hover{
+    background-color: hsl(165, 69%, 45%);
+    color: #fff; 
+    border: none; 
+  }
